@@ -1,2 +1,4 @@
 venv/
-food-101/
+data/
+.DS_store
+prepared_data/
